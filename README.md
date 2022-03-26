@@ -35,6 +35,4 @@
 
 최성우 – [@instargram]https://www.instagram.com/sew_gg/) – sqlstyle@kakao.com
 
-XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
-
 [https://github.com/explorer-cat](https://github.com/explorer-cat)
